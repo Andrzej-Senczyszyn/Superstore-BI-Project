@@ -46,15 +46,14 @@ The solution is structured into four layers:
 ---
 
 ## 📊 Visualization Layer (Tableau Dashboards)
-The final Tableau dashboard contains **7 main pages**:
+The final Tableau dashboard contains **5 main pages**:
 
-1. **Overview** — KPIs, sales map, yearly trends  
-2. **Sales Analysis** — by region, category, segment  
-3. **Profit Insights** — by category, product, and time  
-4. **Customer Insights** — tiers, repeat orders, top customers  
-5. **Product Performance** — best/worst sub-categories  
-6. **Delivery Insights** — delays by region and ship mode  
-7. **Time Series Analysis** — monthly & quarterly sales/profit trends  
+1. **Overview** — key KPIs, sales map, yearly sales trend  
+2. **Sales Analysis** — sales breakdown by region and category, segment comparison  
+3. **Profit Analysis** — profit by category, profit margin trends, profit per order  
+4. **Customer Insights** — top customers, repeat customer analysis  
+5. **Delivery Insights** — average delivery delay, delay by region, delay by ship mode  
+ 
 
 ---
 
